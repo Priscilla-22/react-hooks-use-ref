@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React, { useRef } from 'react';
 
 function CounterRef() {
   const count = useRef(0);
@@ -16,4 +16,4 @@ function CounterRef() {
   );
 }
 
-export default CounterRef;
+export default CounterRef
